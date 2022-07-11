@@ -1,0 +1,6 @@
+framework module Pods_iOSIntegrationFlutterModule_iOSIntegrationFlutterModuleUITests {
+  umbrella header "Pods-iOSIntegrationFlutterModule-iOSIntegrationFlutterModuleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
